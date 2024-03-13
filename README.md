@@ -4,7 +4,7 @@
 
 demo => https://youtu.be/RFudBVQI03k
 
-Kikisan adalah sisten scraping data produk dari tokopedia.com yang terdiri dari 7 metode, dan menggunakan microservice sebagai struktur di sistemnya.
+Metode ini menggunakan library HTTPX untuk melakukan scraping secara sederhana dengan satu koneksi HTTP per request. Metode ini merupakan dasar untuk membandingkan kinerja metode scraping lainnya
 
 ### frontend
 kikisan.site :  https://github.com/codedaffa/kikisan.git
